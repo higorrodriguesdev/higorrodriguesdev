@@ -5,7 +5,7 @@
 [![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/57gkKTEx)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorrodriguesdev&show_icons=true&theme=radical&locale=pt-BR)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorrodriguesdev)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
